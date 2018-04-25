@@ -37,7 +37,8 @@ deploy:
   github-token: $GITHUB_TOKEN
   keep-history: true
   fqdn: jsboilerplate-angularjs.aikaka.net
-  provider: script
-  script: bash Dockerpush.sh
   on:
     branch: master
+
+after_deploy:
+    - bash Dockerpush.sh
