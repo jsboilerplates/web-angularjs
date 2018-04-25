@@ -1,6 +1,6 @@
 {
   "name": "web-angularjs",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Boilerplate for AngularJS Web App",
   "private": true,
   "cacheDirectories": [
