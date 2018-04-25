@@ -1,12 +1,13 @@
 # Boilerplate for AngularJS Web App
 [![Build Status](https://travis-ci.org/jsboilerplates/web-angularjs.svg?branch=master)](https://travis-ci.org/jsboilerplates/web-angularjs)
 [![codecov](https://codecov.io/gh/jsboilerplates/web-angularjs/branch/master/graph/badge.svg)](https://codecov.io/gh/jsboilerplates/web-angularjs)
-
+[![](https://images.microbadger.com/badges/image/jsboilerplates/web-angularjs.svg)](https://microbadger.com/images/jsboilerplates/web-angularjs)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jsboilerplates/web-angularjs/blob/master/LICENSE)
 ## Features
 - AngularJS, Resource, UI Router, Animate
 - Unit Test with Jasmine and Karma
 - Gulp, Browsersync, ESLint
-- CI with Travis
+- CI with Travis, Docker Build
 
 ## Installation
 
