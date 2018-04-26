@@ -38,6 +38,20 @@ gulp build
 
 ```
 
+## Docker support
+
+Build docker image
+
+```
+bash Dockerbuild.sh
+```
+
+Run docker container
+
+```
+docker run -d --name webangularjs -p 8000:8000 jsboilerplates/web-angularjs
+```
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
